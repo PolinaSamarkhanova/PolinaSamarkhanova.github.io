@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts | Academic</title>
-    <link>https://example.com/post/</link>
-      <atom:link href="https://example.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/post/</link>
+      <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 14 Mar 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:1313/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Posts</title>
-      <link>https://example.com/post/</link>
+      <link>http://localhost:1313/post/</link>
     </image>
     
     <item>
       <title>Самые интересные новости прошедшей недели</title>
-      <link>https://example.com/post/getting-started/</link>
+      <link>http://localhost:1313/post/getting-started/week/</link>
       <pubDate>Thu, 14 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/getting-started/</guid>
+      <guid>http://localhost:1313/post/getting-started/week/</guid>
       <description>&lt;h2 id=&#34;события&#34;&gt;События&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;Сдача нескольких лабораторных работ по Архитектуре компьютеров&lt;/li&gt;
@@ -48,7 +48,7 @@
 &lt;ul&gt;
 &lt;li&gt;💬 &lt;a href=&#34;https://web.telegram.org/k/#@samarrkhanova&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Chat with me**&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;событие-первое&#34;&gt;Событие первое&lt;/h2&gt;
+&lt;h2 id=&#34;событие-перво&#34;&gt;Событие перво&lt;/h2&gt;
 &lt;p&gt;На прошедшей неделе было несколько дедлайнов по архитектуре. С чем я успешно справилась, сдав все работы и со спокойной душой отправившись праздновать лучший праздник&lt;/p&gt;
 &lt;h2 id=&#34;событие-второе&#34;&gt;Событие второе&lt;/h2&gt;
 &lt;p&gt;Как я упомянула ранее, я отпраздновала 8е марта. Спросите, как? На самом деле не так уж и весело. А все потому, что 8го марта у меня была смена, но пришла я на неё с тортиком, чтобы торжественно попить чай в честь такого прекрасного дня.Также нам подарили подарки, а именно сертефикат в золотое яблоко ( лучшее руководство!!) А дома меня ждал пркрасный букет тюльпанов от молодого человека&lt;/p&gt;
@@ -59,9 +59,9 @@
     
     <item>
       <title>Управление версиями Git.</title>
-      <link>https://example.com/post/blog-with-jupyter/</link>
+      <link>http://localhost:1313/post/blog-with-jupyter/</link>
       <pubDate>Thu, 14 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/blog-with-jupyter/</guid>
+      <guid>http://localhost:1313/post/blog-with-jupyter/</guid>
       <description>&lt;h2 id=&#34;что-такое-git&#34;&gt;Что такое Git?&lt;/h2&gt;
 &lt;p&gt;Если ввести такой запрос в поисковик, большинство источников ответят так: Git (от англ. – Global Information Tracker) – это распределенная система управления версиями. И в этом определении, не очень понятном неподготовленному читателю, вся суть Git’а.&lt;/p&gt;
 &lt;p&gt;Разберемся, что же значит «управление версиями» и когда система управления версиями становится «распределенной».&lt;/p&gt;
